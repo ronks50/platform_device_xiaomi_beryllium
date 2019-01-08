@@ -1,0 +1,6 @@
+[
+  {
+    "repository": "platform_kernel_xiaomi_beryllium",
+    "target_path": "kernel/xiaomi/beryllium"
+  }
+]
