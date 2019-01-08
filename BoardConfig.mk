@@ -39,6 +39,7 @@ ifeq ($(TARGET_PREBUILT_KERNEL),)
   TARGET_KERNEL_SOURCE := kernel/xiaomi/beryllium
   TARGET_KERNEL_CONFIG := beryllium_defconfig
   TARGET_KERNEL_CLANG_COMPILE := true
+  TARGET_KERNEL_CLANG_VERSION := 8.0.6
 endif
 
 # Use Snapdragon LLVM, if available
