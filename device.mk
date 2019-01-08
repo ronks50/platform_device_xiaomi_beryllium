@@ -58,10 +58,11 @@ PRODUCT_PACKAGES += \
 # IMS
 PRODUCT_PACKAGES += \
     ims-ext-common
-
-# Camera
+    
+# Google Camera
 PRODUCT_PACKAGES += \
-    Snap
+    GoogleCameraMod \
+    Playground
 
 # Net
 PRODUCT_PACKAGES += \
