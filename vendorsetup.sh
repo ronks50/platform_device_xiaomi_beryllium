@@ -1,0 +1,3 @@
+add_lunch_combo superior_beryllium-eng
+add_lunch_combo superior_beryllium-user
+add_lunch_combo superior_beryllium-userdebug
